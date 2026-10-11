@@ -1,0 +1,59 @@
+{
+  "status": "independent production build and 106/106 VM passed",
+  "records": [
+    {
+      "original": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/move/soulidity_v1/tests/original_social_tests.move",
+      "original_sha256": "b3afeb9f4a150d294f2cb3594a8960df70da0f93290848666a7c932a10faff59",
+      "new": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community/tests/original_social_tests.move",
+      "new_sha256": "ffc533db4200e7788fcc4362578e7fedcd3fcf6b39c3e92240324424b2709a27",
+      "changes": [
+        "test module namespace only"
+      ],
+      "backup": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/community-tests-before/original_social_tests.move"
+    },
+    {
+      "original": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/move/soulidity_v1/tests/original_community_posts_tests.move",
+      "original_sha256": "c65889e12686b55561aafc7bb74e08d8166200e3e0440fb724256c348b46befe",
+      "new": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community/tests/original_community_posts_tests.move",
+      "new_sha256": "e06e147264bc157fb3740e84a9c225c2327aa73bce49681beb3e31d265f9d2ce",
+      "changes": [
+        "test module namespace only"
+      ],
+      "backup": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/community-tests-before/original_community_posts_tests.move"
+    },
+    {
+      "original": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/move/soulidity_v1/tests/original_community_votes_tests.move",
+      "original_sha256": "855384e3f85a57986fa9072d134e18fe51fdabfea2558a527a11cce3179b1e70",
+      "new": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community/tests/original_community_votes_tests.move",
+      "new_sha256": "177b25f0d0742d418c1c889b32273e140854a4668f3ecbbcbaeeff7c35360290",
+      "changes": [
+        "test module namespace only"
+      ],
+      "backup": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/community-tests-before/original_community_votes_tests.move"
+    },
+    {
+      "original": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/move/soulidity_v1/tests/profile_tests.move",
+      "original_sha256": "7bfbae1848763d03a3a631a0b1d737da7853802a63b89016789bd99e352ecf9b",
+      "new": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community/tests/profile_tests.move",
+      "new_sha256": "9b43f04106be2595cfcddb15420abb6266c6155a2f2909a7c79c9644a85200fc",
+      "changes": [
+        "test module namespace only"
+      ],
+      "backup": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/community-tests-before/profile_tests.move"
+    },
+    {
+      "original": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/move/soulidity_v1/tests/private_bookmarks_tests.move",
+      "original_sha256": "30f9e3d25b268240c2c4239d94e249096832673fb6d0d6787d4da3487681cfbf",
+      "new": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community/tests/private_bookmarks_tests.move",
+      "new_sha256": "3026299317a56ead1d0725ba99fe8a6b67a4d14bcdf8f2344035cfb021e6be54",
+      "changes": [
+        "test module namespace only"
+      ],
+      "backup": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/community-tests-before/private_bookmarks_tests.move"
+    }
+  ],
+  "production_sources_changed": false,
+  "original_tests_preserved": true,
+  "old_test_source_authority": "historical backup, not maintained",
+  "evidence": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/output/move-check-7etkudra/evidence.json"
+}

@@ -1,0 +1,24 @@
+{
+  "result": "PASS_ACTUAL_ISOLATED_PUBLICATION_READBACK",
+  "chain": "ae60751d",
+  "protocol": 137,
+  "published": {
+    "cap": "0x7a8001cc09e7fcf5f2eb336f5cde46c640321c9c80b5bc9343c8b3cfa33ee30a",
+    "current": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53",
+    "digest": "EqefAQPJodhGbfyaCisqWPSAKKqfYooowCmrXUiXUean",
+    "folder": "soulidity_community",
+    "original": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53",
+    "package_bytes": 14871,
+    "proof": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/maker-manufacturing-extraction/actual-publication-preparation-v5/intents/revision-0-soulidity_community/package-proof.json",
+    "receipt": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/maker-manufacturing-extraction/actual-publication-preparation-v5/intents/revision-0-soulidity_community/receipt.json",
+    "version": 1
+  },
+  "own_modules": 4,
+  "initialization_registries": 4,
+  "transaction_digest": "EqefAQPJodhGbfyaCisqWPSAKKqfYooowCmrXUiXUean",
+  "production_deployment": false,
+  "other_publication_roots_accepted": false,
+  "effective_governance": "not established",
+  "original_UI_journeys": "pending",
+  "full157_30_goal": "ACTIVE"
+}

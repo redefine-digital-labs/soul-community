@@ -1,0 +1,13 @@
+# Community construction status — 2026-10-11
+
+The Community source is active in this owning repository. It builds with only repository-contained Sui/MoveStdlib dependencies:187 pinned framework inputs, four original production modules and five original test files. The original source/test bodies, management mappings, engineering permissions and release rules are preserved.
+
+Run `SUI_BINARY=<pinned Sui v1.80.1 binary> python3 scripts/ci.py --product`. Actual owning-repository execution passed enforced-offline production compilation and all106 original tests. The four bytecode hashes match the reviewed candidate and the actual isolated-chain publication. [Reproduction instructions](REPRODUCIBILITY.md) and [activation evidence](evidence/community-source-activation-v2/source-activation.json) supply the exact identities and limits.
+
+The194-operation source cutover passed independent review and53 recovery/refusal checks. All30 protected paths were verified unchanged at cutover completion. This status document is a subsequent prose correction: the previous cross-module snapshot is preserved in [historical status](evidence/community-source-activation-v2/historical-construction-status.md). Community status is maintained here; current Maker/SDK/Market status belongs to those owning repositories and the integration checkpoint.
+
+Actual Community publication succeeded on the retained isolated test chain `ae60751d`, protocol137, with digest `EqefAQPJodhGbfyaCisqWPSAKKqfYooowCmrXUiXUean`. Package `0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53` has four verified modules. Exact transaction bytes, package relocation/type origins/linkage, Genesis-owned upgrade capability and four initialization registries passed readback. [Publication evidence](evidence/community-source-activation-v2/isolated-publication.json) records this isolated deployment; it does not establish production deployment, effective governance, legacy migration or the original website journey.
+
+The hosted workflow is unchanged and validates maintenance structure only. Actions are disabled; remote semantic CI provisioning/execution, independent release, operational ownership and monitoring remain unfinished. The full157 responsibilities/30 duties goal and all original Owners/Delivery/DEV/BUG records remain active and unchanged.
+
+Source rollback requires restoring this one later status-document change from the exact historical copy before invoking the reviewed v2 rollback command. The source guard refuses documentation or other protected-file drift. Local `.cas` journal/backups retain the source before-state; public checkpoints preserve source/evidence, excluding keys and runtime databases. Runtime/source rollback does not undo a published chain package.

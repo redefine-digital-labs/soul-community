@@ -1,0 +1,226 @@
+{
+  "0x2d0c0f1cc919651e05bfe37750b29d7847069a4780bc2217292c24a54f442bf2": {
+    "data": {
+      "bcs": {
+        "bcsBytes": "LQwPHMkZZR4Fv+N3ULKdeEcGmkeAvCIXKSwkpU9EK/IBAAAAAAAAADWqyVdy6Po0gkNZLMhU75TOuSF3DkdbZa/pDmKXdTfBAAAAAAAAAACMUqxdAkd9KeJWLnrVvmcM3Gq29UM0+afUgXjvX3+ZigAAAAAAAAAA",
+        "dataType": "moveObject",
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::SocialRegistryV1",
+        "version": 678528
+      },
+      "content": {
+        "dataType": "moveObject",
+        "fields": {
+          "counts": {
+            "fields": {
+              "id": {
+                "id": "0x35aac95772e8fa348243592cc854ef94ceb921770e475b65afe90e62977537c1"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<0x2::object::ID, 0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::FollowCountsV1>"
+          },
+          "edges": {
+            "fields": {
+              "id": {
+                "id": "0x8c52ac5d02477d29e2562e7ad5be670cdc6ab6f54334f9a7d48178ef5f7f998a"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::FollowKeyV1, 0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::FollowEdgeV1>"
+          },
+          "id": {
+            "id": "0x2d0c0f1cc919651e05bfe37750b29d7847069a4780bc2217292c24a54f442bf2"
+          },
+          "version": "1"
+        },
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::SocialRegistryV1"
+      },
+      "digest": "6i52TPmyd6bBFcTExBPH5r2BUZzia9G8bWqDhJumj1a7",
+      "objectId": "0x2d0c0f1cc919651e05bfe37750b29d7847069a4780bc2217292c24a54f442bf2",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "version": "678528"
+    }
+  },
+  "0x660e6b5174bcf05a76c84bacc5cdea49cac20c689f5b49b14033567b2d5e47f8": {
+    "data": {
+      "bcs": {
+        "bcsBytes": "Zg5rUXS88Fp2yEusxc3qScrCDGifW0mxQDNWey1eR/gBAAAAAAAAAAAAAAAAAAAARSidUoPUxxrNxVjKe95JxI5bF+N8E6jOz/wv7cEeiGsAAAAAAAAAAA==",
+        "dataType": "moveObject",
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_posts::CommunityRegistryV1",
+        "version": 678528
+      },
+      "content": {
+        "dataType": "moveObject",
+        "fields": {
+          "by_index": {
+            "fields": {
+              "id": {
+                "id": "0x45289d5283d4c71acdc558ca7bde49c48e5b17e37c13a8cecffc2fedc11e886b"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<u64, 0x2::object::ID>"
+          },
+          "id": {
+            "id": "0x660e6b5174bcf05a76c84bacc5cdea49cac20c689f5b49b14033567b2d5e47f8"
+          },
+          "post_count": "0",
+          "version": "1"
+        },
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_posts::CommunityRegistryV1"
+      },
+      "digest": "8V8aCzWfKKKKWvihG8wpFL3iH6mgSxdMRNCdbBBkMuxv",
+      "objectId": "0x660e6b5174bcf05a76c84bacc5cdea49cac20c689f5b49b14033567b2d5e47f8",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "version": "678528"
+    }
+  },
+  "0x7a8001cc09e7fcf5f2eb336f5cde46c640321c9c80b5bc9343c8b3cfa33ee30a": {
+    "data": {
+      "bcs": {
+        "bcsBytes": "eoABzAnn/PXy6zNvXN5GxkAyHJyAtbyTQ8izz6M+4wrjIRLrWTPrQBEpcxY5g1XgXJqImo5dVvAuLUo54nHqUwEAAAAAAAAAAA==",
+        "dataType": "moveObject",
+        "hasPublicTransfer": true,
+        "type": "0x2::package::UpgradeCap",
+        "version": 678528
+      },
+      "content": {
+        "dataType": "moveObject",
+        "fields": {
+          "id": {
+            "id": "0x7a8001cc09e7fcf5f2eb336f5cde46c640321c9c80b5bc9343c8b3cfa33ee30a"
+          },
+          "package": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53",
+          "policy": 0,
+          "version": "1"
+        },
+        "hasPublicTransfer": true,
+        "type": "0x2::package::UpgradeCap"
+      },
+      "digest": "HEDKzu9ZJxBfP8gdd2ENH2gYhc9dX9eTnUT93DFGuiYv",
+      "objectId": "0x7a8001cc09e7fcf5f2eb336f5cde46c640321c9c80b5bc9343c8b3cfa33ee30a",
+      "owner": {
+        "AddressOwner": "0xd78b19532ece91fab02344074c82d009c34528e776c21fd4adea09494bdca037"
+      },
+      "version": "678528"
+    }
+  },
+  "0xa0e1b61ca5b20beebb8131bde1ccf247ec453b4605b7248a95a3ec7ab0cd791c": {
+    "data": {
+      "bcs": {
+        "bcsBytes": "oOG2HKWyC+67gTG94czyR+xFO0YFtySKlaPserDNeRwBAAAAAAAAAB/ERQErBjXOxWhdL0W1e/6W3+bRIFO+flo0WtOKn31eAAAAAAAAAAA7Bm9PshEfF3LNq6cdi3LOds+kKcqRnqPYV8yX0k/H+QAAAAAAAAAA",
+        "dataType": "moveObject",
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteRegistryV1",
+        "version": 678528
+      },
+      "content": {
+        "dataType": "moveObject",
+        "fields": {
+          "counts": {
+            "fields": {
+              "id": {
+                "id": "0x1fc445012b0635cec5685d2f45b57bfe96dfe6d12053be7e5a345ad38a9f7d5e"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<0x2::object::ID, 0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteCountsV1>"
+          },
+          "edges": {
+            "fields": {
+              "id": {
+                "id": "0x3b066f4fb2111f1772cdaba71d8b72ce76cfa429ca919ea3d857cc97d24fc7f9"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteKeyV1, 0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteEdgeV1>"
+          },
+          "id": {
+            "id": "0xa0e1b61ca5b20beebb8131bde1ccf247ec453b4605b7248a95a3ec7ab0cd791c"
+          },
+          "version": "1"
+        },
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteRegistryV1"
+      },
+      "digest": "DUiikJ4u5GcTitSKjiJPBNdMhbzG1xZrYWAieJgLkkUe",
+      "objectId": "0xa0e1b61ca5b20beebb8131bde1ccf247ec453b4605b7248a95a3ec7ab0cd791c",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "version": "678528"
+    }
+  },
+  "0xe1f30084715a2450bc225617abce6d7fe46dfe7062649a79edc12d0109cdde8b": {
+    "data": {
+      "bcs": {
+        "bcsBytes": "4fMAhHFaJFC8IlYXq85tf+Rt/nBiZJp57cEtAQnN3osBAAAAAAAAAAAAAAAAAAAA8uFbVCuDmFT6l2j6ZSdd3ksohxEkMIG2clIz4sWoxaUAAAAAAAAAADZmcPO9U1HdqbFP9//MZI11Hrih9fF7U7WsSrTKYqEKAAAAAAAAAAAAfxNZ2E4lyRjaIIUguaFLX31nIgg9Uw8Wxwv/HyblMwAAAAAAAAAA",
+        "dataType": "moveObject",
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::profile::ProfileRegistryV1",
+        "version": 678528
+      },
+      "content": {
+        "dataType": "moveObject",
+        "fields": {
+          "by_handle": {
+            "fields": {
+              "id": {
+                "id": "0x366670f3bd5351dda9b14ff7ffcc648d751eb8a1f5f17b53b5ac4ab4ca62a10a"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<0x1::string::String, 0x2::object::ID>"
+          },
+          "by_index": {
+            "fields": {
+              "id": {
+                "id": "0x007f1359d84e25c918da208520b9a14b5f7d6722083d530f16c70bff1f26e533"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<u64, 0x2::object::ID>"
+          },
+          "by_owner": {
+            "fields": {
+              "id": {
+                "id": "0xf2e15b542b839854fa9768fa65275dde4b288711243081b6725233e2c5a8c5a5"
+              },
+              "size": "0"
+            },
+            "type": "0x2::table::Table<address, 0x2::object::ID>"
+          },
+          "id": {
+            "id": "0xe1f30084715a2450bc225617abce6d7fe46dfe7062649a79edc12d0109cdde8b"
+          },
+          "profile_count": "0",
+          "version": "1"
+        },
+        "hasPublicTransfer": false,
+        "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::profile::ProfileRegistryV1"
+      },
+      "digest": "HtCkrQyabJWuTq1CzsbiDMzoZzNXZ73LdQqZGAL6yNEL",
+      "objectId": "0xe1f30084715a2450bc225617abce6d7fe46dfe7062649a79edc12d0109cdde8b",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "version": "678528"
+    }
+  }
+}
