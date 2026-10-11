@@ -1,0 +1,31 @@
+{
+  "result": "PASS_ACTUAL_SOURCE_ACTIVATION",
+  "frozen_manifest_sha256": "92e3426aed0648b8274954e79d7528c5198065011d7beb5c20b9f730140a3cef",
+  "independent_review_sha256": "d9edb413de848340e7694ddb07d3c6c26b2a8bdb781705d901d53edeadd0ec92",
+  "operations": 194,
+  "protected_paths": 30,
+  "actual_after_states_equal": true,
+  "protected_states_equal": true,
+  "independent_backup_blobs_verified": true,
+  "journal_sha256": "6e30d9b0a3ec3abc399f96acc556ee10a3d30b3c8f6823a44aa170afab4d631a",
+  "actual_registered_command": [
+    "python3",
+    "scripts/ci.py",
+    "--product"
+  ],
+  "actual_evidence_sha256": "a8e2002e656b5e776da294fbc680c1c7afc0060e426bc624eb668a198b39eec5",
+  "original_tests": 106,
+  "original_source_test_bodies_unchanged": true,
+  "project_dependencies": [],
+  "framework_inputs": 187,
+  "production_artifacts": {
+    "community_posts": "8e91d3642c0af392c28a94a2f8a27767e17443530b7296cc338fd003318b6a63",
+    "community_votes": "61eb32e0a0e19f08a556eb6e5e1f4be606eaa91e45a101a57c1eb46b54b439c2",
+    "profile": "1cf7482a5408f137d068072291d2366e7481e32d765b6c1eeb3914ce3b34c6d2",
+    "social": "1abd767b36c442efe4e9b16158689f329bc271a9a012ba60be48e6f54140d744"
+  },
+  "remote_semantic_ci": "unfinished",
+  "full157_30_goal": "ACTIVE",
+  "source_activated": true,
+  "production_deployment": false
+}

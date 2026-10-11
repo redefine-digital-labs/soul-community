@@ -1,0 +1,10 @@
+No sui config found in `/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/output/community-independent-xz4478bx/home/.sui/sui_config/client.yaml`, create one [Y/n]?
+Generated new keypair and alias for address with scheme "ed25519" [hopeful-dichroite: 0xdb8a7f9ab57e703f8e098aced88051c31ad973d482e22e80e52c0419bb5b4e9d]
+  secret recovery phrase : [[REMOVED_CREDENTIAL_BY_USER_REQUEST]]
+Created "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/output/community-independent-xz4478bx/home/.sui/sui_config/client.yaml"
+Set active environment to testnet
+2026-10-11T09:00:34.286998Z  WARN sui_package_alt::sui_flavor: Failed to query protocol version: Failed to query protocol config. Falling back to protocol version 137.
+[NOTE] Dependencies on Sui, MoveStdlib, Bridge, DeepBook, and SuiSystem are automatically added, but this feature is disabled for your package because you have explicitly included dependencies on Sui. Consider removing these dependencies from `Move.toml`.
+INCLUDING DEPENDENCY MoveStdlib
+INCLUDING DEPENDENCY Sui
+BUILDING SoulidityCommunity

@@ -1,0 +1,48 @@
+{
+  "checks": [
+    {
+      "id": "0x660e6b5174bcf05a76c84bacc5cdea49cac20c689f5b49b14033567b2d5e47f8",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_posts::CommunityRegistryV1",
+      "verified": true
+    },
+    {
+      "id": "0xa0e1b61ca5b20beebb8131bde1ccf247ec453b4605b7248a95a3ec7ab0cd791c",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::community_votes::VoteRegistryV1",
+      "verified": true
+    },
+    {
+      "id": "0xe1f30084715a2450bc225617abce6d7fe46dfe7062649a79edc12d0109cdde8b",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::profile::ProfileRegistryV1",
+      "verified": true
+    },
+    {
+      "id": "0x2d0c0f1cc919651e05bfe37750b29d7847069a4780bc2217292c24a54f442bf2",
+      "owner": {
+        "Shared": {
+          "initial_shared_version": 678528
+        }
+      },
+      "type": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53::social::SocialRegistryV1",
+      "verified": true
+    }
+  ],
+  "effective_business_registration_pending": true,
+  "folder": "soulidity_community",
+  "immutability_or_timelock_asserted": false,
+  "upgrade_cap_separately_verified": true
+}

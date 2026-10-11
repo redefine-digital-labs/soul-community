@@ -1,0 +1,12 @@
+{
+  "scope": "Subsequent low-impact Community status prose correction; no runtime/permission/owner/source input change",
+  "path": "CONSTRUCTION_STATUS.md",
+  "before_sha256": "7f78035d3c0ad63074a83d0abd75d8221cae4621a3f5d9d4c24144e47adc0a82",
+  "after_sha256": "6f2f698374cc8233a2e759d5b2f369710199f6ab29ac6eb7cad32e40e25a89d6",
+  "before_copy": "evidence/community-source-activation-v2/historical-construction-status.md",
+  "source_rollback_order": [
+    "Verify current status equals after_sha256; restore exact before_copy",
+    "Invoke original reviewed community_cutover.py rollback with original approval and manifest binding"
+  ],
+  "full_goal_complete": false
+}

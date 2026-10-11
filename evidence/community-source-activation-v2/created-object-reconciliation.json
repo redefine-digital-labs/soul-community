@@ -1,0 +1,10 @@
+{
+  "basis": "successful effects.created plus immutable/current object readbacks; optional objectChanges cross-check when present",
+  "created_objects": 6,
+  "current_custody_matches_creation_effects": true,
+  "immutable_package_reference_exact": true,
+  "mutable_initial_contents_not_assumed": true,
+  "optional_enrichment_present": true,
+  "published_package": "0xe32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53",
+  "rpc_enrichment_errors": []
+}

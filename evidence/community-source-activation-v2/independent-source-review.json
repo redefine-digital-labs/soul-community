@@ -1,0 +1,21 @@
+{
+  "acceptance_scope": "Frozen local source-only CAS candidate; process-interruption/recovery and recorded independent build/original106-test evidence",
+  "actual_approval_present": false,
+  "actual_baseline_sha256": "75f8f8763bd5d9587148122b5b6d8d63a75d98b4aed40749ef11f640f63c9448",
+  "actual_source_activation": false,
+  "candidate_pins": {
+    "community_cutover.py": "704e2f7919a085270666678cc90ce1c6a2e0f9bdb47e46bb8a13edf903841b65",
+    "frozen-manifest.json": "92e3426aed0648b8274954e79d7528c5198065011d7beb5c20b9f730140a3cef",
+    "operations.json": "7e19ed3274b74f070222bc7d38dded6e7725019a92c18987f3229beff716230c",
+    "terminal-evidence-manifest.json": "5d17feeff9c13fd789c5bd5a568b18f1ad2ddf1762c1802c4c69fd6db0e85abe"
+  },
+  "findings": [],
+  "full157_30_goal": "ACTIVE",
+  "remote_semantic_ci": "unfinished",
+  "report_sha256": "20a4ed59879323c346cb8be8a57bac53e5735239eea3bfcc4312d0f1f94ebc0a",
+  "result": "SCOPED_PASS",
+  "reviewer": "community_source_cutover_v2_readonly_review",
+  "schema": "community-source-cutover-independent-review-v2",
+  "source_activation_authorization": false,
+  "verification_sha256": "b91c5b4b618d683944634be3c1834977b159f2fcead006cf5158d16089707644"
+}

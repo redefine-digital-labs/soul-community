@@ -1,0 +1,77 @@
+{
+  "actual_driver_main_invoked": false,
+  "actual_signer_invoked": false,
+  "actual_state_unchanged": true,
+  "approval_present": false,
+  "candidate": "actual-publication-execution-v5 / actual-publication-preparation-v5",
+  "compiler_runs": 0,
+  "created_utc": "2026-10-11T08:55:16.374926+00:00",
+  "evidence": {
+    "exact-intent-public-readback.json": "c26e5db73c117066b9deaa23301e4888226f2396973ea08a4456fe00caef459d",
+    "inventory-result.json": "ff6fa0860a6f7d0f0e9e6784ec7b9515071f783c80cdef9be7fd34a40e993ba8",
+    "lifecycle-result.json": "f762eb51c3746c6ffa883b28b438d8260bf887d9a41c75a03bd66eca1e086b6a",
+    "prior-build-continuity.json": "ef17a495d2eb6fc151c1b1d844169ecf42328a7185529629b27a024a1a40e36e",
+    "public-gate-recovery-result.json": "a2e4d965d1b093fc4798a5dcce28b0db3cae30c016dff11ec765f1ee3cfe6334"
+  },
+  "exact_current_intent_public_readback": "PASS",
+  "execution_files": 26,
+  "existing_benign_binding_negative_logs_inspected": 6,
+  "findings": [],
+  "findings_count": 0,
+  "frozen_files_unchanged": true,
+  "full_157_30_complete": false,
+  "full_19_74_complete": false,
+  "handbook_sections": [
+    "1-5",
+    "7",
+    "8.3-8.4",
+    "9",
+    "10",
+    "12"
+  ],
+  "handbook_version": "1.0",
+  "historical_optional_enrichment_reconciliation": "PASS_SCOPED",
+  "independent_pure_json_lifecycle_cases": 8,
+  "keys_read_or_hashed": false,
+  "original_records": [
+    "DOF-001",
+    "P01",
+    "P09"
+  ],
+  "preparation_files": 1703,
+  "qualified_external_audit": false,
+  "remaining_checks": [
+    "Exact executor approval and pre-sign guards",
+    "Actual isolated publication and original-digest recovery/readback",
+    "All other root/dependency release reviews",
+    "Source/type migration and old-callable rejection",
+    "Effective governance and original product/SDK/UI journeys",
+    "Independent CI/releases and full-goal acceptance"
+  ],
+  "report_path": "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/output/ecosystem-construction/repository-split-2026-10-10/maker-manufacturing-extraction/community-publication-v5-readonly-review/REPORT.md",
+  "report_sha256": "cc6897ba2d60a4dcc344e21a549b9a32f7abe47dfb3dcea6806bbc51a7787b4b",
+  "review_complete": true,
+  "review_scope": "First Community only: exact publication and recovery controls; other publication/dependency releases not approved",
+  "reviewed_bindings": {
+    "allowed_folders": [
+      "soulidity_community"
+    ],
+    "digest": "EqefAQPJodhGbfyaCisqWPSAKKqfYooowCmrXUiXUean",
+    "frozen_candidate_sha256": "35e9ca4355919f86d2c1fa85cf17d28063b1081b43e52669594e8446a0b088a7",
+    "intent_sha256": "c4f84c556f800c1bf67a6c06c22385223423627a1ae8fdacd053d9ece03c4fb4",
+    "preparation_controls_sha256": "99720c963e3528bd33019c1da5cc92f3f6b07cc64196ceb38aec8130680bea27",
+    "signer_sha256": "7574b4bc17160d7eaa58f7490a4bc14e3ccf6e57808b28a05799c392440d6f26",
+    "state_sha256": "395ce5bcbc4d6a333c8ab7c4e30b48d62b82b7db9fd234b776181923d5f310ce"
+  },
+  "runtime_files": 1825,
+  "runtime_roots": 20,
+  "signatures": 0,
+  "source_activation": false,
+  "source_deltas_from_accepted_maker": 0,
+  "source_files": 1681,
+  "stage": "Test / Release evidence",
+  "standard_dependent_publication_and_cutover": "HOLD",
+  "status": "SCOPED_PASS",
+  "submissions": 0,
+  "vm_runs": 0
+}
